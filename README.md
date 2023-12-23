@@ -1,2 +1,4 @@
 <h1>Product Demo Screenshots</h1>
-![image](https://github.com/Ayushjhax/Arcana-Authication/assets/116433617/cff35cd5-de53-4b53-b34d-7229763e6dd4)
+<img src = "![image](https://github.com/Ayushjhax/Arcana-Authication/assets/116433617/3db20b89-fae0-43d3-b463-7f1d6b4a787d)
+"><\img>
+
