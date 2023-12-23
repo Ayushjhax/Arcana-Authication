@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Arcana Testing</title>
+  </head>
+  <body>
+    <div>
+      <button class="btn" onclick="connect()">Connect</button>
+      <button class="btn" onclick="passwordlesslogin()">passwordless login</button>
+      <button class="btn" onclick="sociallogin()">Google login</button>
+       <button class="btn" onclick="getAccount()">Get accounts</button>
+        <button class="btn" onclick="getMyPublicKey()">Get others Public key</button>
+        <button class="btn" onclick="requestSign()">Request Typed Signature</button>
+        <button class="btn" onclick="sendTransaction()">Send Transaction</button>
+        <button class="btn" onclick="signTransaction()">Sign Transaction</button>
+        <button class="btn" onclick="addChain()">Add Chain</button>
+        <button class="btn" onclick="switchChain()">Switch Chain</button>
+        <button class="btn" onclick="addToken()">Add token</button>
+        <button class="btn" onclick="Logout()">Logout</button>
+    </div>
+    <script
+      src="https://cdn.ethers.io/lib/ethers-5.2.umd.min.js"
+      type="application/javascript"
+    ></script>
+    
+
+    <script src="./node_modules/@arcana/auth/dist/standalone/auth.umd.js"></script>
+    <script src="./main.js"></script>
+  </body>
+</html>
