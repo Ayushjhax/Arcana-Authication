@@ -1,7 +1,6 @@
-<h1>Product Demo Screenshots</h1>
-![image](https://github.com/Ayushjhax/Arcana-Authication/assets/116433617/b0e5d4af-b67e-4cb7-be13-e3c54e245384)
-![1](https://github.com/Ayushjhax/Arcana-Authication/assets/116433617/6fd6df35-d946-4fa0-a3b2-4d702183cd2f)
-
+<h1>Product Demo</h1>
+![111](https://github.com/Ayushjhax/Arcana-Authication/assets/116433617/489b1f90-9c30-4609-b8cc-ee4b67ac5ee5)
+![222](https://github.com/Ayushjhax/Arcana-Authication/assets/116433617/d149bcbc-0545-4c95-af4d-902e693d7a64)
 ![2](https://github.com/Ayushjhax/Arcana-Authication/assets/116433617/c7225694-16c6-45d4-bcc4-73263c87ae75)
 ![3](https://github.com/Ayushjhax/Arcana-Authication/assets/116433617/dcf74543-1439-4ef0-bfcf-d291adb28991)
 ![4](https://github.com/Ayushjhax/Arcana-Authication/assets/116433617/707d2a3a-0f9a-4e70-a57b-5c5c4eda0578)
